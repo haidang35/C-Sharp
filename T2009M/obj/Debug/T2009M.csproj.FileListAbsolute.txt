@@ -1,0 +1,6 @@
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\T2009M\bin\Debug\T2009M.exe
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\T2009M\bin\Debug\T2009M.pdb
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\T2009M\obj\Debug\T2009M.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\T2009M\obj\Debug\T2009M.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\T2009M\obj\Debug\T2009M.exe
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\T2009M\obj\Debug\T2009M.pdb
