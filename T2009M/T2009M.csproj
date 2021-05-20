@@ -42,7 +42,6 @@
         <Compile Include="lab\s1\Product.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="session1\Main.cs" />
         <Compile Include="session1\Student.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
