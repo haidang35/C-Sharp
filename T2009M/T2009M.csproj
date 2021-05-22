@@ -40,9 +40,16 @@
     <ItemGroup>
         <Compile Include="Demo\Run.cs" />
         <Compile Include="lab\s1\Product.cs" />
+        <Compile Include="lab\s2\Diamond.cs" />
+        <Compile Include="lab\s2\Fashion.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="session1\Student.cs" />
+        <Compile Include="session2\Animal.cs" />
+        <Compile Include="session2\Dog.cs" />
+        <Compile Include="session2\IAnimalInterface.cs" />
+        <Compile Include="session2\IMamalInterface.cs" />
+        <Compile Include="session2\Mamal.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Security.Cryptography;
+using T2009M.lab.s2;
 using T2009M.session1;
 
 namespace T2009M
@@ -42,7 +43,7 @@ namespace T2009M
             List<Student> listStudents = new List<Student>();
             listStudents.Add(new Student("Nguyen Hai Dang", 19));*/
             
-            Product prod = new Product(1, "Iphone", 2000, 5, "image1", "SmartPhone");
+            /*Product prod = new Product(1, "Iphone", 2000, 5, "image1", "SmartPhone");
             prod.GetInfo();
             prod.NotificationQuantity();
             prod.AddImageToGallery();
@@ -57,7 +58,16 @@ namespace T2009M
             prod.AddImageToGallery();
             prod.AddImageToGallery();
             prod.DeleteImageInGallery();
-            prod.GetInfo();
+            prod.GetInfo();*/
+
+            Fashion fs = new Fashion(1, "T-Shirt", 1000, 5, "im1", "clothes", "red", "M");
+            fs.GetInfo();
+            fs.NotificationQuantity();
+            fs.CheckInStock("red", "M");
+            fs.CheckInStock("red", "S");
+
+            Diamond diam = new Diamond(2, "Diamond", 10000000, 1, "imgdiamond", "diamond rare", 2);
+            diam.GetInfo();
 
         }
     }
