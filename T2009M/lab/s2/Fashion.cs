@@ -42,9 +42,15 @@ namespace T2009M.lab.s2
             base.AddImageToGallery();
         }
 
+        public Boolean CheckStatusProduct(string color, string size)
+        {
+            if (this.color == color && this.size == size) return true;
+            return false;
+        }
+
         public void CheckInStock(string color, string size)
         {
-            if (this.color == color && this.size == size)
+            if (CheckStatusProduct(color, size))
             {
                 Console.WriteLine("Sản phẩm còn hàng");
             }
