@@ -29,6 +29,24 @@ namespace T2009M.session1
             this.gallery.Add(image);
         }
 
+        public string Name
+        {
+            get => name;
+            set => name = value;
+        }
+
+        public float Price
+        {
+            get => price;
+            set => price = value;
+        }
+
+        public int Quantity
+        {
+            get => quantity;
+            set => quantity = value;
+        }
+
         public void GetInfo()
         {
             Console.WriteLine("id: " + this.id);
@@ -44,6 +62,7 @@ namespace T2009M.session1
             }
             
         }
+        
 
         public void NotificationQuantity()
         {
