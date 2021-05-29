@@ -48,27 +48,32 @@ namespace T2009M.Assignment.Zoology
 
         public void Ears()
         {
-            Console.WriteLine("");
+            Console.WriteLine("Elephants ears are made of a very thin layer skin stretched over cartilage and a rich network of blood vessels");
             throw new System.NotImplementedException();
         }
 
         public void Herbivores()
         {
+            Console.WriteLine("Elephants are herbivores, spending 16 hours a day collecting plant food");
             throw new System.NotImplementedException();
         }
 
         public void Interval()
         {
+            Console.WriteLine("Females give birth at intervals of about every 5 years");
+           
             throw new System.NotImplementedException();
         }
 
         public void Weight()
         {
+            Console.WriteLine("At birth, calves weight around 90-115kgs");
             throw new System.NotImplementedException();
         }
 
         public void Use()
         {
+            Console.WriteLine("Elephants have been working animals used in various capacities by humans");
             throw new System.NotImplementedException();
         }
     }
