@@ -11,7 +11,8 @@ namespace T2009M.Practical.Excercise_2
         
         public static void Main(string[] args)
         {
-            for (int i = 2; i < 20 ; i++)
+            Console.WriteLine("Số nguyên tố trong khoảng từ 1 đến 10 là: ");
+            for (int i = 2; i <= 10 ; i++)
             {
                 if (CheckPrimeNumber(i))
                 {
