@@ -11,7 +11,7 @@ namespace T2009M.Practical.Excercise_2
         
         public static void Main(string[] args)
         {
-            for (int i = 1; i < 20 ; i++)
+            for (int i = 2; i < 20 ; i++)
             {
                 if (CheckPrimeNumber(i))
                 {
@@ -31,7 +31,7 @@ namespace T2009M.Practical.Excercise_2
         public static Boolean CheckPrimeNumber(int n)
         {
             int result = 0;
-            for (int i = 2; i < n / 2; i++)
+            for (int i = 2; i <= n / 2; i++)
             {
                 if (n % i == 0) result++;
             }
