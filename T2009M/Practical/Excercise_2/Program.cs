@@ -21,7 +21,6 @@ namespace T2009M.Practical.Excercise_2
                 }
             }
             
-            
         }
         
         public static void NoticePrimeNumber(int pn)

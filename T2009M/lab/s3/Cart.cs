@@ -97,7 +97,7 @@ namespace T2009M.lab.s3
             }
             else
             {
-                Console.WriteLine("Giam so luong san pham khong thanh cong");
+                Console.WriteLine("Giam so luong san pham " +prd.Name+ " khong thanh cong");
             }
         }
 

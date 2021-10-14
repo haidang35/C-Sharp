@@ -2,6 +2,7 @@ using System;
 
 namespace T2009M.lab.s4
 {
+    public delegate int ShowResult(int a, int b);
     public class CalcInt
     {
         public CalcInt()
