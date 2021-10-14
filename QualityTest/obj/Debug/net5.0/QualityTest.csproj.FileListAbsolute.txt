@@ -1,0 +1,16 @@
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\bin\Debug\net5.0\QualityTest.exe
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\bin\Debug\net5.0\QualityTest.deps.json
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\bin\Debug\net5.0\QualityTest.runtimeconfig.json
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\bin\Debug\net5.0\QualityTest.runtimeconfig.dev.json
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\bin\Debug\net5.0\QualityTest.dll
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\bin\Debug\net5.0\ref\QualityTest.dll
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\bin\Debug\net5.0\QualityTest.pdb
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\obj\Debug\net5.0\QualityTest.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\obj\Debug\net5.0\QualityTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\obj\Debug\net5.0\QualityTest.AssemblyInfoInputs.cache
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\obj\Debug\net5.0\QualityTest.AssemblyInfo.cs
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\obj\Debug\net5.0\QualityTest.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\obj\Debug\net5.0\QualityTest.dll
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\obj\Debug\net5.0\ref\QualityTest.dll
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\obj\Debug\net5.0\QualityTest.pdb
+C:\Users\nguye\Desktop\T2009M\C#\T2009M\QualityTest\obj\Debug\net5.0\QualityTest.genruntimeconfig.cache
